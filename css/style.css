@@ -2,7 +2,7 @@
 
 body{
   font-family: 'Poppins',sans-serif;
-  background: linear-gradient(120deg, #a1955d, #3ca4ac);
+  background: linear-gradient(120deg, #3ca4ac, #a01bd4);
  height: 100vh;
   display: flex;
   align-items: center;
@@ -14,7 +14,6 @@ body{
     border-radius: 20px;
     background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
 }
-
 .chip-img{
     height:50px;
     width:55px;
