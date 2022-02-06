@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+  font-family: 'Poppins',sans-serif;
+  background: linear-gradient(120deg, #c3c125, #3ca4ac);
+ height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.front{
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.chip-img{
+    height:50px;
+    width:55px;
+    margin:10px;
+}
+.head-img{
+    display: flex;
+    justify-content: space-between;
+}
+.visa-img{
+   height:40px;
+    margin:10px;
+}
+.number{
+    margin-top: 30px;
+    font-size:30px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Inconsolate',monospace;
+}
+.card-holder{
+   margin-top: 10px;
+   display: flex;
+   justify-content: space-around;
+}
+.card-info{
+    font-size: 20px;
+}
